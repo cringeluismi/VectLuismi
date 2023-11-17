@@ -59,12 +59,10 @@ public class EntregaClaseString {
             System.out.print(alovec[i] + " ");
         }
 
-        System.out.println("\n15 - split(expresión)");
+        System.out.println("\n\n15 - split(expresión)");
         String frase = "Esto es un ejemplo";
         String frasesplit[] = frase.split(" ");
         System.out.println(frasesplit[1]);
-
-
 
     }
 }
